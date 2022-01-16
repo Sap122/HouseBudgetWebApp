@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+
+h1{color: white;
+    font-size: 65px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align-last: center;
+}
+
+body{background-image:url(https://assets-news.housing.com/news/wp-content/uploads/2019/02/23070312/Budget-2019-3-main-tax-benefits-for-property-owners-FB-1200x628-compressed.jpg);}
+.container{background-color:rgba(0, 0, 0, 0.5);
+    height: 85%;
+    width: 53%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top:-2%;
+    margin-bottom: ;
+    border-radius: 60px;
+    opacity:0.6;
+   }
+.info{margin: 15px;
+    background-color: rgba(0, 0, 0, 0.0);;
+    height: 580px;
+    width: 140px;
+    border-radius: 60px;
+   opacity:1;
+}
+.form{background-color:rgba(0, 0, 0, 0.0);;
+      margin-left: 160px;
+    margin-top: -590px;
+    height: 576px;
+    width: 470;
+   opacity:1;
+}
+input[type=text] {
+  background-color:white ;
+  font-size:20px;
+  font-weight:bold;
+}
+input[type=password] {
+  background-color:white ;
+  font-size:20px;
+  font-weight:bold;
+}
+input[type=email] {
+  background-color:white ;
+  font-size:20px;
+  font-weight:bold;
+}
+input[type=number] {
+  background-color:white ;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.mic{background-color:rgba(0, 0, 0, 0.0);;
+    margin-left: 640px;
+    height: 576px;
+    margin-top: -576px;
+    width: 150px;
+border-radius: 60px;
+opacity:1;
+}
+.btn{height:100px;
+     width:100px;}
+.bt{height:100px;
+     width:100px;
+    border-radius: 100px;}
+.col-25{width: 400px;
+    height: 40px;
+}
+.submit{height:40px;
+        width:80px;margin-left: 200px;
+        border-radius: 200px;
+}
+}
+.lab{font-weight: bold;font-color:white;font-size:20px;opacity:1;
+}
+
+.f{color:white;
+   font-size:30px;
+    font-weight:bold;}
